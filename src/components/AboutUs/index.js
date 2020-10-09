@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Carousel from '../Carousel'
+import React, { Component } from "react";
+import Carousel from "../Carousel";
 
 class AboutUs extends Component {
   render() {
@@ -10,5 +10,7 @@ class AboutUs extends Component {
     );
   }
 }
+
+// test
 
 export default AboutUs;
